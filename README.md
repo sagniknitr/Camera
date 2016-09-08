@@ -15,14 +15,18 @@ Install the openCV library and the PiCamera library
 sudo apt-get install python-opencv
 sudo apt-get install python-picamera
 ```
-Enable the camera module
+## Enable the camera module
 ```
 sudo raspi-config
 ```
-![raspi-config execution](https://github.com/danny270793/Camera/blob/master/images/raspiconfig.png)
-![Enable module](https://github.com/danny270793/Camera/blob/master/images/enable.png)
-![Module enabled](https://github.com/danny270793/Camera/blob/master/images/enabled.png)
-![Ask for reboot](https://github.com/danny270793/Camera/blob/master/images/reboot.png)
+Select "6 Enable Camera"
+![raspi-config execution](https://github.com/danny270793/Camera/blob/master/images/raspiconfig.png)<br>
+Select "6 Enable Camera"
+![Enable module](https://github.com/danny270793/Camera/blob/master/images/enable.png)<br>
+Confirm you want to enable it
+![Module enabled](https://github.com/danny270793/Camera/blob/master/images/enabled.png)<br>
+At the end it will ask you for reboot, reboot it
+![Ask for reboot](https://github.com/danny270793/Camera/blob/master/images/reboot.png)<br>
 Download the Gpio library code
 ```
 sudo git clone https://github.com/danny270793/Camera.git
