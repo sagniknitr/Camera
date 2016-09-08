@@ -15,6 +15,10 @@ Install the openCV library and the PiCamera library
 sudo apt-get install python-opencv
 sudo apt-get install python-picamera
 ```
+Install numpy
+```
+sudo apt-get install python-numpy
+```
 ## Enable the camera module
 ```
 sudo raspi-config
