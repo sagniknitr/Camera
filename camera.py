@@ -1,3 +1,9 @@
+'''
+	Raspberry Camera libray for python
+	name	: Camera
+	version	: 1.7.9.16.17.51
+	author	: Danny Vaca
+'''
 # opencv library is required
 import cv2
 # the camera will use the rpi module
