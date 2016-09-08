@@ -19,6 +19,10 @@ Enable the camera module
 ```
 sudo raspi-config
 ```
+![raspi-config execution](https://github.com/danny270793/Camera/blob/master/images/raspiconfig.png)
+![Enable module](https://github.com/danny270793/Camera/blob/master/images/enable.png)
+![Module enabled](https://github.com/danny270793/Camera/blob/master/images/enabled.png)
+![Ask for reboot](https://github.com/danny270793/Camera/blob/master/images/reboot.png)
 Download the Gpio library code
 ```
 sudo git clone https://github.com/danny270793/Camera.git
