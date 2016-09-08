@@ -19,13 +19,13 @@ sudo apt-get install python-picamera
 ```
 sudo raspi-config
 ```
-Select "6 Enable Camera"
+Select "6 Enable Camera"<br>
 ![raspi-config execution](https://github.com/danny270793/Camera/blob/master/images/raspiconfig.png)<br>
-Select "6 Enable Camera"
+Select "6 Enable Camera"<br>
 ![Enable module](https://github.com/danny270793/Camera/blob/master/images/enable.png)<br>
-Confirm you want to enable it
+Confirm you want to enable it<br>
 ![Module enabled](https://github.com/danny270793/Camera/blob/master/images/enabled.png)<br>
-At the end it will ask you for reboot, reboot it
+At the end it will ask you for reboot, reboot it<br>
 ![Ask for reboot](https://github.com/danny270793/Camera/blob/master/images/reboot.png)<br>
 Download the Gpio library code
 ```
