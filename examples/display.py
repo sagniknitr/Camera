@@ -1,5 +1,5 @@
 # import all modules from camera file
-from camera import *
+from Camera import *
 
 # use the camera with the piCamera module
 camera=Camera(type=Rpi)
