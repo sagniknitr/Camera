@@ -7,5 +7,5 @@ setup(name='Camera',
 	description='Raspberry camera libray for python',
 	author='Danny Vaca',
 	author_email='danny270793@gmail.com',
-	py_modules=['camera'],
+	py_modules=['Camera'],
 	)
