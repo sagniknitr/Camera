@@ -10,7 +10,10 @@ Install git and clone the repository
 ```
 sudo apt-get install git
 ```
-
+Install the openCV library
+```
+sudo apt-get install python-opencv
+```
 Download the Gpio library code
 ```
 sudo git clone https://github.com/danny270793/Camera.git
