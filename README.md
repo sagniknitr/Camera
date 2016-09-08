@@ -10,13 +10,14 @@ Install git and clone the repository
 ```
 sudo apt-get install git
 ```
-Install the openCV library
+Install the openCV library and the PiCamera library
 ```
 sudo apt-get install python-opencv
-```
-Install the PiCamera library
-```
 sudo apt-get install python-picamera
+```
+Enable the camera module
+```
+sudo raspi-config
 ```
 Download the Gpio library code
 ```
