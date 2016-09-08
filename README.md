@@ -14,6 +14,10 @@ Install the openCV library
 ```
 sudo apt-get install python-opencv
 ```
+Install the PiCamera library
+```
+sudo apt-get install python-picamera
+```
 Download the Gpio library code
 ```
 sudo git clone https://github.com/danny270793/Camera.git
