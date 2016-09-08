@@ -21,9 +21,9 @@ sudo raspi-config
 ```
 Select "6 Enable Camera"<br>
 ![raspi-config execution](https://github.com/danny270793/Camera/blob/master/images/raspiconfig.png)<br>
-Select "6 Enable Camera"<br>
-![Enable module](https://github.com/danny270793/Camera/blob/master/images/enable.png)<br>
 Confirm you want to enable it<br>
+![Enable module](https://github.com/danny270793/Camera/blob/master/images/enable.png)<br>
+And that its all<br>
 ![Module enabled](https://github.com/danny270793/Camera/blob/master/images/enabled.png)<br>
 At the end it will ask you for reboot, reboot it<br>
 ![Ask for reboot](https://github.com/danny270793/Camera/blob/master/images/reboot.png)<br>
