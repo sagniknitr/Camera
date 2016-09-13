@@ -1,4 +1,5 @@
 # Camera library
+![Camera Library logo](https://github.com/danny270793/Camera/blob/master/images/picamera.png)
 
 Project description:
 
