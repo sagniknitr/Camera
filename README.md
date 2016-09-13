@@ -55,4 +55,4 @@ sudo python setup.py install
 
 ## Version
 Camera library version 1.8.9.0.25<br> 
-Last update 078/09/2016
+Last update 08/09/2016
